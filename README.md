@@ -39,4 +39,4 @@ To set up and run the DSA Study Helper, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/dsa-study-helper.git
+   git clone https://github.com/shrutipuskar/DSA-Study-Helper.git
